@@ -1,7 +1,7 @@
 Fraction_Group	Fraction	Spectra_Filepath	Label	Sample
 1	1	https://abibuilder.informatik.uni-tuebingen.de/archive/openms/Tutorials/Data/PhosphoID_nfcore_testdata/SF_200217_pPeptideLibrary_pool1_HCDnlETcaD_OT_rep1.raw	1	1
-2	2	https://abibuilder.informatik.uni-tuebingen.de/archive/openms/Tutorials/Data/PhosphoID_nfcore_testdata/SF_200217_pPeptideLibrary_pool1_HCDnlETcaD_OT_rep2.raw	1	2
+1	1	https://abibuilder.informatik.uni-tuebingen.de/archive/openms/Tutorials/Data/PhosphoID_nfcore_testdata/SF_200217_pPeptideLibrary_pool1_HCDnlETcaD_OT_rep2.raw	1	1
 
 Sample	MSstats_Condition	MSstats_BioReplicate
 1	1	1
-2	2	2
+1	1	1
